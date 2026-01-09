@@ -95,9 +95,12 @@ body {
 }
 
 .weather {
-    display: none; /* Hidden by default until a city is searched */
+    display: none; 
 }
-
 .error {
     text-align: left;
-    margin-left:
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
+}
