@@ -44,4 +44,5 @@ const checkWeather = async (city) => {
 
 searchBtn.addEventListener("click", () => {
     checkWeather(searchBox.value);
+
 });
